@@ -1,0 +1,15 @@
+{
+  "title": "Magal Touba 2023-2024: A Formalized and Reproducible Data Engineering Pipeline for the Exploitation of Hospital Records during Mass Gatherings",
+  "description": "Companion code and cleaned dataset (D_clean) for the CNRIA 2026 paper on a formalized, auditable data engineering pipeline (Phi = rho o delta o nu o tau) applied to CHAK hospital records during the 2023 and 2024 editions of the Grand Magal of Touba, Senegal.",
+  "creators": [
+    { "name": "Diallo, Demba", "affiliation": "Alioune Diop University of Bambey (UADB), Senegal" },
+    { "name": "Gueye, Amadou Dahirou", "affiliation": "Amadou Mahtar Mbow University of Diamniadio (UAM), Senegal" },
+    { "name": "Ba, Mouhamadou Lamine", "affiliation": "Cheikh Anta Diop University of Dakar (UCAD), Senegal" },
+    { "name": "Ba, Ibrahima", "affiliation": "Cheikh Ahmadoul Khadim National Hospital Center (CHAK), Touba, Senegal" },
+    { "name": "Diagne, Maguette", "affiliation": "Aristide Le Dantec Hospital, Dakar, Senegal" }
+  ],
+  "keywords": ["hospital information systems", "data quality", "data engineering pipeline", "mass gatherings", "Senegal", "reproducibility", "semantic interoperability"],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open"
+}

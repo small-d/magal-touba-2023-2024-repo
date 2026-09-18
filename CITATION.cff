@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+title: "Magal Touba 2023-2024: A Formalized and Reproducible Data Engineering Pipeline for the Exploitation of Hospital Records during Mass Gatherings"
+type: software
+authors:
+  - family-names: "Diallo"
+    given-names: "Demba"
+    affiliation: "Alioune Diop University of Bambey (UADB), Senegal"
+  - family-names: "Gueye"
+    given-names: "Amadou Dahirou"
+    affiliation: "Amadou Mahtar Mbow University of Diamniadio (UAM), Senegal"
+  - family-names: "Ba"
+    given-names: "Mouhamadou Lamine"
+    affiliation: "Cheikh Anta Diop University of Dakar (UCAD), Senegal"
+  - family-names: "Ba"
+    given-names: "Ibrahima"
+    affiliation: "Cheikh Ahmadoul Khadim National Hospital Center (CHAK), Touba, Senegal"
+  - family-names: "Diagne"
+    given-names: "Maguette"
+    affiliation: "Aristide Le Dantec Hospital, Dakar, Senegal"
+version: 1.0.0
+date-released: 2026-09-18
+license: MIT
+repository-code: "REPLACE_WITH_GITHUB_URL"
+identifiers:
+  - type: doi
+    value: "REPLACE_WITH_ZENODO_DOI"
+    description: "Zenodo archive of this repository (dataset + code)"
