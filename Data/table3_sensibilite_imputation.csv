@@ -1,0 +1,4 @@
+Methode d'imputation,Age moyen 2023,Age moyen 2024,p-value (t-test)
+Median/Mode,33.2,30.5,0.0008219795318446032
+MICE,33.7,31.2,0.0021053977682435714
+Random Forest,33.8,30.5,4.303736803320439e-05

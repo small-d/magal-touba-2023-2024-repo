@@ -1,0 +1,27 @@
+item_slug,categorie_standardisee,sous_type_trauma
+coupetblessures,TRAUMA,Coups et blessures
+accidentsdomestiques,TRAUMA,Accident domestique
+accidentsdelacirculation,TRAUMA,Accident de la circulation
+accidentmoto,TRAUMA,Accident moto
+accidentcharrette,TRAUMA,Accident charrette
+affectionscardiovasculaires,CARDIOVASCULAIRE,
+diabeteetautresaffectionsmetaboliques,METABOLIQUE,
+cassuspectdepaludisme,INFECTIEUX_PALUDISME,
+casconfirmedepaludisme,INFECTIEUX_PALUDISME,
+cassuspectcovid19,INFECTIEUX_COVID19,
+casconfirmedecovid19,INFECTIEUX_COVID19,
+affectionsrespiratoires,RESPIRATOIRE,
+gastroenteriteaiguintoxication,DIGESTIF,
+affectionsdigestives,DIGESTIF,
+affectionsbuccodentaires,BUCCODENTAIRE,
+affectionsophtalmologiques,OPHTALMOLOGIQUE,
+affectionsobstetricales,MATERNITE_GYNECOLOGIE,
+affectionsgynecologiques,MATERNITE_GYNECOLOGIE,
+affectionsurologiques,UROLOGIQUE,
+affectionsrhumatologiques,RHUMATOLOGIQUE,
+affectionsdermatologiques,DERMATOLOGIQUE,
+affectionsneuropsychatriques,NEUROPSYCHIATRIQUE,
+coupdechaleur,COUP_DE_CHALEUR,
+affectionsorl,ORL,
+arrivedecedecorpssansvie,DECES,
+siautrepreciser,AUTRE,
